@@ -7,6 +7,8 @@ En este video se dara una explicacion de como realizar el despligue de una pagin
 https://www.youtube.com/watch?v=I-a-8fKpxXU
 
 
+![amazon S3](https://user-images.githubusercontent.com/48265107/76792625-6f183e00-6791-11ea-9211-6d3982d67c05.JPG)
+
 
 
 ## Construido con
