@@ -1,42 +1,11 @@
-# Taller-Clientes-y-Servicios_AREM
+# Patrones Arquitecturales
 
+# Desplegar un sitio estático usando S3
 
-**RECOMENDACION PROBAR CON HEROKU**
-* Clase ServidorWeb
+En este video se dara una explicacion de como realizar el despligue de una pagina estatica en el servicio de AWS S3
 
-Archivos tipo HTML
+https://www.youtube.com/watch?v=I-a-8fKpxXU
 
-![Capture1](https://user-images.githubusercontent.com/48265107/74475894-4f31e980-4e76-11ea-9cb7-ea520d248547.PNG)
-
-
-Archivos tipo JPG o PNG
-
-![Capture2](https://user-images.githubusercontent.com/48265107/74476055-9fa94700-4e76-11ea-898c-206a1e7ef6d0.PNG)
-
-
-![Capture3](https://user-images.githubusercontent.com/48265107/74476057-a0da7400-4e76-11ea-9926-0036fc247117.PNG)
-
-
-Archivos tipo JS
-
-![Capture4](https://user-images.githubusercontent.com/48265107/74476177-d1baa900-4e76-11ea-9530-2f73fc117e2f.PNG)
-
-
-# Heroku
-
-
--Para abrir archivos de tipo HTML abrir el link:
-https://lab4-arem.herokuapp.com/pagina.html
-
--Para abrir archivos de tipo JPG o PNG abrir el link:
-
-https://lab4-arem.herokuapp.com/carro.jpg
-
-https://lab4-arem.herokuapp.com/dado.png
-
--Para abrir archivos JS abrir el link:
-
-https://lab4-arem.herokuapp.com/java.js
 
 
 
